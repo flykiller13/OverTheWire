@@ -19,3 +19,7 @@ pass: 8SyQ2wyEDU
 ## Narnia4
 
 pass: aKNxxrpDc1
+
+## Narnia5
+
+pass: 1oCoEkRJSB
