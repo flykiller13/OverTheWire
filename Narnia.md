@@ -23,3 +23,7 @@ pass: aKNxxrpDc1
 ## Narnia5
 
 pass: 1oCoEkRJSB
+
+## Narnia6
+
+pass: BAV0SUV0iM
