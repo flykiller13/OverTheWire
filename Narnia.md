@@ -27,3 +27,7 @@ pass: 1oCoEkRJSB
 ## Narnia6
 
 pass: BAV0SUV0iM
+
+## Narnia7
+
+pass: YY4F9UaB60
