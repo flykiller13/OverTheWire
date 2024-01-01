@@ -1,8 +1,10 @@
-#Krypton1:
+# Krypton
+
+## Krypton1:
 KRYPTONISGREAT
 
-#Krypton2:
+## Krypton2:
 ROTTEN
 
-#Krypton3:
+## Krypton3:
 CAESARISEASY
